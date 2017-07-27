@@ -1,0 +1,6 @@
+1- No space allowed in file and folder names.
+2- No combination of file and folder allowed.
+3- File names must be camel cased like: FileName_YYMMdd_v (version >1, <9)
+4- Folder names must be singular.
+5- Asset name start with class,then _, then name like: Character_Footman
+6- Everyone works in his folder not the master branch.
