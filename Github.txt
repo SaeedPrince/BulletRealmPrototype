@@ -1,5 +1,6 @@
 git clone				              : Copy repo from url
 git status				              : Check for changes in local
+git add .                       : Add all the content *.*
 git commit -m "blah"			      : Writes repo
 git push -u				              : Uploads from local to repo
 git checkout -b BranchName		      : Changes active branch to BranchName
