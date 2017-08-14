@@ -1,0 +1,17 @@
+git clone				                      : Copy repo from url
+git status				                    : Check for changes in local
+git add .                             : Add all the content *.*
+git commit -m "blah"			            : Writes repo
+git push -u				                    : Uploads from local to repo
+git checkout -b BranchName		        : Changes active branch to BranchName
+git branch				                    : Shows branches
+git branch -d BranchName		          : Delete local branch
+git push origin --delete branch_name  : Delete git branch
+git pull [git url] branch_name		    : Update master with branch
+git checkout .                        : Discard local changes
+git clean -f -d                       : Cleans working tree
+git reflog                            : Shows git changes log
+git reset --hard HEAD@{2}             : Returns to Head:2
+git lfs install                       : Activates large file system
+git lfs track "*.uasset"              : Adds files to LFS
+git add .gitattributes                : Adds .gitattributes
